@@ -1,6 +1,6 @@
 {
   "name": "ts6-atm-machine",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "An ATM (Automatic Teller Machine) created with TypeScript, Node.js, Inquirer & Chalk.",
   "main": "index.js",
   "type": "module",

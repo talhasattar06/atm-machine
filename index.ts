@@ -5,7 +5,7 @@ import chalk from "chalk";
 
 let myBalance: number = 10000;
 const myPin: number = 12345;
-console.log(chalk.hex('FFD400')("---------- Welcome to ATM Machine ----------"));
+console.log(chalk.hex('FFD400')("\n\t---------- Welcome To ATM Machine ----------\n"));
 
 let pinAnswer = await inquirer.prompt([
   {
